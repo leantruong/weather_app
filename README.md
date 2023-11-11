@@ -4,13 +4,26 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Weather App Using OpenWeatherMap API service Current Weather based on users location and using City name to get lat lon.
+Details:-
+Framework:- Flutter
 
-A few resources to get you started if this is your first Flutter project:
+IDE:- VS code
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+State Management Tools:- Bloc
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Architecture Pattern:- TDD
+
+Apis:-, OpenWeatherMap API
+
+Package:- cupertino_icons, Bloc , http, intl, mocktail, get_it , equatable, flutter_bloc, flutter_toast, lottie , test, 
+
+
+
+# How to use
+- Run app: `flutter run`
+- Get Start Page => Location Page => Weather Page
+
+
+
+
